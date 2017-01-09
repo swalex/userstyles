@@ -427,6 +427,12 @@ input[type="submit"].btn-secondary, input[type="button"].btn-secondary, button.b
     color: #FFF;
     border-bottom-color: #158;
 }
+.revision-comment {
+    color: #BBB;
+}
+.user-show-new .user-rep-full .rep-recent-row {
+    background-color: #343;
+}
 .help-center .help-category-box h3 {
     border-color: #777;
 }
