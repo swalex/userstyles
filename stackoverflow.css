@@ -47,6 +47,15 @@ code {
 .question-hyperlink, .answer-hyperlink {
     color: #F69C55;
 }
+.question-page #answers .answer {
+    background-color: #333 !important;
+}
+.question-page #answers .answer.accepted-answer {
+    background-color: #303438 !important;
+}
+.question-page #answers .answer.downvoted-answer {
+    background-color: #383030 !important;
+}
 .question-page #answers .answer, tr.comment>td, .comments, .subheader, #question-header, .wmd-preview {
     border-color: #777;
 }
