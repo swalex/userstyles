@@ -549,5 +549,127 @@ pre {
 .str, .lit, .tag {
     color: #D69D85;
 }
+table.doctag-cards .doctag-card {
+    border-color: #777;
+}
+table.doctag-cards .doctag-card .card-top {
+    background-color: #444;
+    border-color: #666;
+}
+table.doctag-cards .doctag-card .card-bottom {
+    background-color: #333;
+    border-color: #666;
+}
+table.doctag-cards .doctag-card .ctas .dashboard {
+    color: #EEE;
+}
+.topic-row .topic-links .example-row .example-score, .example-request-row .topic-links .example-row .example-score, .topic-request-row .topic-links .example-row .example-score {
+    color: #EEE;
+}
+.topic-row .topic-links .example-row .doc-example-link, .example-request-row .topic-links .example-row .doc-example-link, .topic-request-row .topic-links .example-row .doc-example-link {
+    color: #8CF;
+}
+.introduction-topic, .version-line {
+    background-color: #222;
+    border-color: #444;
+    color: #BB8;
+}
+.docs-subheader.subheader .doctag-title a:not(.button) {
+    color: #FFF;
+}
+.container .example.expanded:not(.being-edited):not(.change-modifies):hover {
+	background-color: #444 !important;
+}
+.examples .doc-example-link {
+    color: #EEE;
+}
+.example-body h1, .remarks-html h1, .new-editor h1, .example-body h2, .remarks-html h2, .new-editor h2, .example-body h3, .remarks-html h3, .new-editor h3 {
+    color: #DDD;
+}
+.docs-menu a:hover {
+    color: #CCC;
+}
+.topic-header .doc-topic-link, .topic-title-header .doc-topic-link {
+    color: #BBB;
+}
+.mainbar.discussion .discussion-item {
+    background-color: #444;
+}
+.mainbar.discussion .discussion-item .discussion-item-type-title a {
+    color: #EEE;
+}
+.mainbar.discussion .discussion-item .proposed-changes-edit-desc {
+    color: #CCC;
+}
+.container.dashboard .top-cards .card {
+    background-color: #222;
+    border-color: #555;
+    color: #CCC;
+}
+.other-counts li a {
+    color: #CCC;
+}
+.container.dashboard .panels .topic-comment, .container.dashboard .panel-full .topic-comment, .container.dashboard .panels .issue-summary, .container.dashboard .panel-full .issue-summary {
+    color: #CCC;
+}
+.hero-box.devstory {
+    background-color: #222;
+    border-color: #777;
+}
+.hero-box.devstory .hero-title>h2 {
+    color: #CCC;
+}
+.f-label, label.f-label {
+    color: #CCC;
+}
+#side-menu ul li>a:hover, #side-menu ul li>a.youarehere {
+    color: #EEE;
+    background-color: #158;
+}
+.title-box {
+    background-color: #222;
+    color: #CCC;
+}
+.title-box>.title {
+    color: #EEE;
+}
+.help-text {
+    color: #BBB;
+}
+.so-header .secondary-nav .-item .-link.topbar-icon-on {
+    background-color: #222;
+    color: #FFF;
+}
+.topbar-dialog .header {
+    background-color: #222;
+}
+.topbar-dialog {
+    background-color: #333;
+    border-color: #777;
+}
+.topbar-dialog.inbox-dialog .inbox-item .item-content .item-header, .topbar-dialog.modInbox-dialog .inbox-item .item-content .item-header, .topbar-dialog.achievements-dialog .inbox-item .item-content .item-header {
+    color: #CCC;
+}
+.topbar-dialog.inbox-dialog .inbox-item .item-content .item-summary, .topbar-dialog.modInbox-dialog .inbox-item .item-content .item-summary, .topbar-dialog.achievements-dialog .inbox-item .item-content .item-summary {
+    color: #AAA;
+}
+.topbar-dialog.inbox-dialog .inbox-item>a:hover, .topbar-dialog.modInbox-dialog .inbox-item>a:hover, .topbar-dialog.achievements-dialog .inbox-item>a:hover {
+    background-color: #158;
+}
+.topbar-dialog a:visited, .topbar-dialog a, .topbar-dialog a:hover {
+    color: #8CF;
+}
+.topbar-dialog .modal-content li:hover {
+    background-color: #158;
+}
+.topbar-dialog.siteSwitcher-dialog .current-site-container {
+    background-color: #158;
+}
+.topbar-dialog.help-dialog a:visited, .topbar-dialog.siteSwitcher-dialog a:visited {
+    color: #8CF;
+}
+.topbar-dialog.siteSwitcher-dialog .modal-content li:hover {
+    background-color: #248;
+}
 
 }
