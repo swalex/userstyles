@@ -671,5 +671,8 @@ table.doctag-cards .doctag-card .ctas .dashboard {
 .topbar-dialog.siteSwitcher-dialog .modal-content li:hover {
     background-color: #248;
 }
+.new-post-activity, #new-answer-activity {
+    background-color: #158;
+}
 
 }
