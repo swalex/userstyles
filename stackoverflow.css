@@ -16,6 +16,41 @@ body {
 #content {
     background-color: #333;
 }
+.so-header {
+    background-color: #383838;
+}
+body.question-page.new-topbar {
+    color: #EEE;
+}
+.so-header .navigation .-item._current .-link {
+    color: #FFF;
+}
+.so-header .navigation .-link {
+    color: #BBB;
+}
+.so-header .-logo._glyph:hover {
+    background-color: #158;
+}
+.so-header .navigation .-link:hover {
+    color: #DDD;
+    background-color: #158;
+}
+.so-header .secondary-nav .-link:hover {
+    color: #DDD !important;
+	background-color: #158 !important;
+}
+.so-header .my-profile:hover {
+    background-color: #158;
+}
+.so-header .my-profile .-rep {
+    color: #EEE;
+}
+.so-header .searchbar input[type="text"].f-input {
+    color: #AAA;
+}
+.f-input, input[type="text"].f-input {
+    background-color: #222;
+}
 #question-header .question-hyperlink {
     color: #F69C55;
 }
